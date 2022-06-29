@@ -1,4 +1,4 @@
-# UFO Sighting
+# UFO Sighting (https://imantal.github.io/UFO-Sighting/)
 ## Overview of Project
 For this project, JavaScript(JS) is used as the primary coding language to create a dynamic table to organize UFO data that is stored as a JS array. The table has the ability to filter the data based on the certain criteria defined by the user. HTML is used for easy viewing of the table and interaction with the user. The web page is customized using Bootstrap.
 ## Results
